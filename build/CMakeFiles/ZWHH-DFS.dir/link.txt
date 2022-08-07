@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/ZWHH-DFS.dir/main.cpp.o src/CMakeFiles/source-objects.dir/data.cpp.o  -o ../bin/ZWHH-DFS 
